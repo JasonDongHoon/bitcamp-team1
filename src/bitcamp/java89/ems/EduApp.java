@@ -25,6 +25,8 @@ public class EduApp {
 		  case "go 2": teacherController.Service(); break;
 			case "go 3": bookController.service(); break;
 			case "go 4": ClassControl.service(); break;
+			case "help2": break;
+			case "help77": break;
 			case "quit": System.out.println("Good bye!!"); break loop;
 			default: System.out.println("지원하지 않는 명령어 입니다.");
 
